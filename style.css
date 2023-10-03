@@ -1,11 +1,24 @@
 body{
-    background-color: powderblue;
+    
+        background: #FFFFFF;
+        background: -moz-linear-gradient(-45deg, #FFFFFF 0%, #A9E6A8 75%, #97CDD1 100%);
+        background: -webkit-linear-gradient(-45deg, #FFFFFF 0%, #A9E6A8 75%, #97CDD1 100%);
+        background: linear-gradient(135deg, #FFFFFF 0%, #A9E6A8 75%, #97CDD1 100%);
+        
+        
+        
 }
 
 h1{
-    color: blue;
+    color: rgb(18, 18, 21);
 }
 
 p {
-    color: red;
+    color: rgb(0, 0, 0);
 }
+
+#shadow {
+    text-shadow: 1px 2px 3px #6f6767; 
+    
+
+    }
